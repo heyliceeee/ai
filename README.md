@@ -13,3 +13,11 @@
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=pokemon&theme=react" />
     </a>
 </div>
+
+### Ficha Prática 2
+<div align="left">
+    <a href="https://github.com/heyliceeee/arvoreGenealogica">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=arvoreGenealogica&theme=react" />
+    </a>
+</div>
+
