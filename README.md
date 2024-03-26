@@ -31,3 +31,10 @@
     </a>
 </div>
 
+### Ficha Prática 5
+<div align="left">
+    <a href="https://github.com/heyliceeee/algoritmoGenerico">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=algoritmoGenerico&theme=react" />
+    </a>
+</div>
+
