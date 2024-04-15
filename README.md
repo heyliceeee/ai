@@ -38,3 +38,9 @@
     </a>
 </div>
 
+### Ficha Prática 6
+<div align="left">
+    <a href="https://github.com/heyliceeee/algoritmoGenetico">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=algoritmoGenetico&theme=react" />
+    </a>
+</div>
