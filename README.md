@@ -44,3 +44,10 @@
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=algoritmoGenetico&theme=react" />
     </a>
 </div>
+
+### Ficha Prática 7
+<div align="left">
+    <a href="https://github.com/heyliceeee/fp07">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=fp07&theme=react" />
+    </a>
+</div>
