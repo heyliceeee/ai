@@ -1,4 +1,11 @@
 # Inteligência Artificial
+## Trabalho Prático
+<div align="left">
+    <a href="https://github.com/heyliceeee/robocodeIA">
+        <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=robocodeIA&theme=react" />
+    </a>
+</div>
+
 ## Fichas Práticas
 ### Ficha Prática 1
 <div align="left">
