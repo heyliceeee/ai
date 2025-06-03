@@ -4,9 +4,6 @@
     <a href="https://github.com/heyliceeee/robocodeIA">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=robocodeIA&theme=react" />
     </a>
-</div>
-<p></p>
-<div align="left">
     <a href="https://github.com/heyliceeee/2025-ia-trabalhopratico">
         <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heyliceeee&repo=2025-ia-trabalhopratico&theme=react" />
     </a>
